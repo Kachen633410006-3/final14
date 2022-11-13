@@ -3,13 +3,14 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" type="image/x-icon" href="https://img.freepik.com/free-icon/target_318-926877.jpg?size=338&ext=jpg&ga=GA1.2.1634286892.1667832176&semt=sph">
-
+        
+        <link rel="shortcut icon" type="image/x-icon" href="../../assets/images/favicon.ico">
+        
         <title>GunHub</title>
         <link rel="stylesheet" href="stylr.css"/>
         <!-- Fonts -->
         <link href=	https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css rel="stylesheet">
-
+        
         <!-- Styles -->
         <style>
             /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -57,7 +58,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    <img src="/img/G34-LG.jpg" style="width:250px"/>
+                                    <a href="https://eu.glock.com/en"><img src="/img/G34-LG.jpg" style="width:250px"/></a>
                                 </div>
                                 glock perfection เปิดตัวโมเดล ใหม่! 
                             </div>
@@ -71,7 +72,7 @@
 
                             <div class="ml-12">
                                 <div class="flex img-center" >
-                                    <img src="/img/hao-liu-render1.jpg" style="width:250px"/>
+                                    <a href="https://tarantacticalinnovations.com/tti-benelli-m4/"><img src="/img/hao-liu-render1.jpg" style="width:250px"/></a>
                                 </div>
                                 taran tactical <br>
                                     เปิดตัวงานออกแบบ benelli m4 แบบใหม่ดีไซด์สวย ง่ายต่อการลงสนาม
@@ -86,7 +87,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    <img src="/img/Gun.jpg" style="width:250px"/>
+                                    <a href="https://www.chadthukkrasae.com/2020/10/2020_31.html"><img src="/img/Gun.jpg" style="width:250px"/></a>
                                     "ปิดฉากยิงปืน "หัวหิน สตีล ชาลเลนจ์ 2020"  วันที่ 31 ตุลาคม 2563 ณ สนามกีฬายิงปืนหัวหิน (สนามยิงปืนบ่อฝ้าย) อำเภอหัวหิน จังหวัดประจวบคีรีขันธ์  จัดโดยสมาคมกีฬายิงปืนหัวหิน (Hua Hin Shooting Association) ผู้มอบรางวัลได้รับเกียรติโดย นายชาญชัย กรรณสูต นายกสมาคมกีฬาหัวหิน จ.ประจวบคีรีขันธ์ เป็นผู้มอบรางวัล พร้อมด้วย นายจตุพล ปรัชญาภรณ์ อุปนายกฝ่ายพัฒนาบุคลากร สมาคมกีฬายิงปืนรณยุทธแห่งประเทศไทย และนายวัฒน์ ศรีจินตอังกูร อุปนายกฝ่ายจัดการแข่งขัน ร่วมมอบรางวัลแก่นักกีฬายิงปืน รายการ "Hua Hin Steel Challenge 2020" ที่สนามกีฬายิงปืนหัวหิน (สนามยิงปืนบ่อฝ้าย) อำเภอหัวหิน จังหวัดประจวบคีรีขันธ์
                                 </div>
                             </div>
@@ -100,9 +101,9 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    <img src="/img/arisoftsun.jpg" style="width:250px"/>
+                                   <a href="<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM4bbgunshop%2Fposts%2Fpfbid05vdgKWHfiyYr6FGo5kTkJx4KcHY7nVwHanGiX2cZgwaiUzuKExhrqmSzG8zmsj7Al&show_text=true&width=500" width="500" height="819" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe><img src="/img/arisoftsun.jpg" style="width:250px"/></a>
                                     ช่างยนต์บีบีเอ็มโฟร์
-14 สิงหาคม 2021  · 
+
 เอาผลงานล่าสุดมาฝากครับ ปรับแต่งปืน AW ไต้หวัน ใช้ในการแข่งขัน IPSC ปืนสั้นอัดแก็สบีบีกัน จัดชุดใหญ่พร้อมเล่น + ชุดเข็มขัด ซองแม็ก ซองปืนชักเร็ว  ชุดพร้อมเล่นกีฬาIPSC AIRSOFT เอาภาพสวยๆมาฝากครับ ชมรีวิว ทดสอบก่อนได้นะครับ
                                 </div>
                             </div>
